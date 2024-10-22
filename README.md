@@ -34,7 +34,23 @@ Users should also be able to sort the displayed tickets in two ways:
 ## Installation
  **Clone the repository**
   
-                     git clone https://github.com/Rupa-Veerala/Kanban-board-application.git
+        git clone https://github.com/Rupa-Veerala/Kanban-board-application.git
+
+ **Navigate the directory**
+ 
+        cd Kanban-board-application
+        
+  **Install Dependencies**
+  
+        npm install
+        
+  **Start the Development Server**
+  
+        npm star
+        
+  Open your web browser and visit the application.
+
+
 
    
 
