@@ -32,6 +32,10 @@ Users should also be able to sort the displayed tickets in two ways:
 0 - No priority
 
 ## Installation
-
+1. Clone the repository:
+2. Navigate the directory:cd kanban-board
+3. Install Dependencies: install npm
+4. Start the Development Server: npm start
+   
 
 
