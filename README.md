@@ -25,17 +25,24 @@ Users should also be able to sort the displayed tickets in two ways:
 
 **Priority levels: (This values you will receive in the api)**
 
-4 - Urgent
-3 - High
-2 - Medium
-1 - Low
+4 - Urgent, 
+3 - High, 
+2 - Medium, 
+1 - Low, 
 0 - No priority
 
 ## Installation
 1. Clone the repository:
-2. Navigate the directory:cd kanban-board
-3. Install Dependencies: install npm
-4. Start the Development Server: npm start
+    # git clone https://github.com/Rupa-Veerala/Kanban-board-application.git
+2. Navigate the directory:
+   # cd kanban-board
+3. Install Dependencies:
+   # npm install
+4. Start the Development Server:
+   # npm start
+5. Open your web browser and visit the application.
+
+
    
 
 
