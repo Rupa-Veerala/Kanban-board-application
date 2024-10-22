@@ -1,7 +1,6 @@
 # Kanban Board Application
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Required to create an interactive Kanban board application using React JS that interacts with the provided API from  https://api.quicksell.co/v1/internal/frontend-assignment
+Users can group tickets by status, user, or priority, and sort the displayed tickets by priority or title. The application also retains the user's view state even after page reload.
 ## Available Scripts
 
 In the project directory, you can run:
