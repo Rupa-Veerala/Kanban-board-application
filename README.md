@@ -31,10 +31,10 @@ Users should also be able to sort the displayed tickets in two ways:
 1 - Low, 
 0 - No priority
 
-**Installation**
-1. Clone the repository:
-                              git clone https://github.com/Rupa-Veerala/Kanban-board-application.git
-2. Navigate the directory:
+## Installation
+ **Clone the repository**
+                            git clone https://github.com/Rupa-Veerala/Kanban-board-application.git
+Navigate the directory:
                               cd Kanban-board-application
 3. Install Dependencies:
    npm install
